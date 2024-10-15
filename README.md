@@ -36,8 +36,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img height="48" alt="MongoDB" src="https://github.com/user-attachments/assets/a11db92f-8e50-4e4e-8e2f-5f7aed0320fb"></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="48" alt="MySQL" src="https://github.com/user-attachments/assets/9d522806-d951-4b2e-8d8d-0fa780d205a8"></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="48" alt="Docker" src="https://github.com/user-attachments/assets/cf4fd0d9-606d-4295-9e4a-5374b4f59330"></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="48" alt="Git" src="https://github.com/user-attachments/assets/245a51ed-273a-452a-8f64-f9d8a07d9715"></a>
-
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="48" alt="Git" src="https://github.com/user-attachments/assets/e8330498-cb1b-4503-9664-4be1f6864e96"></a>
 
 # 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></p>
