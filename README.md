@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Iche</p>
   
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Tech<br>
-👯 I’m looking to collaborate on projects<br>
-🤝 I’m looking for help with diving deep in blockchain and crypto space<br>
-⚡ I’m currently enhancing my skills on core blockchain development<br>
+🔭 Interest in Blockchain Tech<br>
+🤝 Diving deep in blockchain and crypto space<br>
+⚡ Core blockchain development<br>
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/abhishek-iche"><img height="48" alt="LinkedIN" src="https://github.com/user-attachments/assets/34f3d7a9-72c3-4c52-aef9-105144a31b60"></a>
