@@ -1,46 +1,146 @@
-<h1 align="center">Hi there 👋, I'm Abhishek Iche</p>
-  
-# 💫 About Me:
-🔭 Interest in Blockchain Tech<br>
-🤝 Diving deep in blockchain and crypto space<br>
-⚡ Core blockchain development<br>
+<div align="center">
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/abhishek-iche"><img height="48" alt="LinkedIN" src="https://github.com/user-attachments/assets/34f3d7a9-72c3-4c52-aef9-105144a31b60"></a>
-<a href="https://x.com/AbhishekIche"><img height="48" alt="X" src="https://github.com/user-attachments/assets/bf301bdc-605b-44e4-997c-3ab80f4f61c3"></a>
+```
+█████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗    ██╗ ██████╗██╗  ██╗███████╗
+██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝    ██║██╔════╝██║  ██║██╔════╝
+███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝     ██║██║     ███████║█████╗
+██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗     ██║██║     ██╔══██║██╔══╝
+██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗    ██║╚██████╗██║  ██║███████╗
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
+```
 
-# 💻 Technical Experience:
-<a href="https://bitcoin.org/" target="_blank" rel="noreferrer"><img height="48" alt="Bitcoin" src="https://github.com/user-attachments/assets/dd027a9c-c1fd-4481-8106-c7a8a701e210"></a>
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img height="48" alt="Ethereum" src="https://github.com/user-attachments/assets/75dc32fe-0d74-4036-b24c-5bb639d7e107"></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img height="48" alt="Solidity" src="https://github.com/user-attachments/assets/ea7e1154-6a68-4fc1-a2d0-1a549dda9877"></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img height="48" alt="Hardhat" src="https://github.com/user-attachments/assets/6cb7858b-512a-41ba-82cc-ff60a35c317f"></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img height="48" alt="Rust" src="https://github.com/user-attachments/assets/222d5170-ead9-451f-8d22-b875a60e2e24"></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img height="48" alt="Node.js" src="https://github.com/user-attachments/assets/dd957f05-6187-4795-9d68-c181b69bbbe1"></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img height="48" alt="Express.js" src="https://github.com/user-attachments/assets/03e95380-ef3c-4832-b445-06788c1de93b"></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img height="48" alt="React.js" src="https://github.com/user-attachments/assets/4cbedce8-f206-489e-9cdd-56c3ab0e30f9"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="48" alt="JavaScript" src="https://github.com/user-attachments/assets/142674c6-81b1-43ef-a5f0-9600aa88b0e9"></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img height="48" alt="TypeScript" src="https://github.com/user-attachments/assets/9ba15c7e-9ff8-46a2-8634-f3b35dd6a0b7"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img height="48" alt="HTML5" src="https://github.com/user-attachments/assets/4497b39f-6c8b-4082-844b-94b853a9b21e"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img height="48" alt="CSS3" src="https://github.com/user-attachments/assets/de0a5d91-1e84-4c2c-9e68-61197ec31d12"></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img height="48" alt="Spring" src="https://github.com/user-attachments/assets/26feab53-8063-4f16-b33a-a2f9765b99e6"></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="48" alt="Java" src="https://github.com/user-attachments/assets/671ac480-3079-458d-9cd2-96f7f663cafe"></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img height="48" alt="C++" src="https://github.com/user-attachments/assets/454103ce-59cc-4dca-a093-26956f39a52d"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img height="48" alt="C" src="https://github.com/user-attachments/assets/f4d0b63e-995a-4432-8c07-05df843c96aa"></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="48" alt="Python" src="https://github.com/user-attachments/assets/a3a41dd1-b781-47ed-9185-27824d851124"></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="48" alt="PHP" src="https://github.com/user-attachments/assets/57faea94-40a5-4e4c-ba4b-39a59e1e7f24"></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="48" alt="Postman" src="https://github.com/user-attachments/assets/9c037b23-a988-4428-b942-1b47d1489fee"></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img height="48" alt="Google Cloud" src="https://github.com/user-attachments/assets/c5637ddc-109a-48ae-8271-4b169cfc626e"></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img height="48" alt="Linux" src="https://github.com/user-attachments/assets/a82c8670-4538-49a1-a16d-09651cc0b5b1"></a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img height="48" alt="KaliLinux" src="https://github.com/user-attachments/assets/b0be4efc-f34b-44d3-b3ee-dc0842f1d475"></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img height="48" alt="MongoDB" src="https://github.com/user-attachments/assets/a11db92f-8e50-4e4e-8e2f-5f7aed0320fb"></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="48" alt="MySQL" src="https://github.com/user-attachments/assets/9d522806-d951-4b2e-8d8d-0fa780d205a8"></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="48" alt="Docker" src="https://github.com/user-attachments/assets/cf4fd0d9-606d-4295-9e4a-5374b4f59330"></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="48" alt="Git" src="https://github.com/user-attachments/assets/e8330498-cb1b-4503-9664-4be1f6864e96"></a>
+# Hey, I'm Abhishek Iche 👾
 
-# 📊 GitHub Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ005&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVRAJ005&theme=dark&hide_border=true"/></p>
+### Application Security Engineer · Cloud Security · AI Security · Blockchain Security
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-iche)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhishekIche)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YuvrajT5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YUVRAJ005)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+name        : Abhishek Iche
+role        : Infosec Engineer @ CAMS India (Financial Services)
+education   : M.Tech Information Security — NIT Rourkela
+              B.E. Computer Engineering   — M.E.S's College of Engineering, Pune
+focus       : AppSec · Cloud Security · AI Security · AI-Driven Defense · Blockchain Security
+certification: Google Cloud Professional Cloud Security Engineer (2025)
+tryhackme   : Top 5% globally — still climbing 🚀
+```
+
+I secure **web applications, APIs, cloud-native workloads, and blockchain systems** in a high-stakes financial services environment.
+My work spans threat modeling, vulnerability assessment, GCP security, Zero Trust architecture, and AI-assisted security automation.
+
+---
+
+## 🎯 What I Do
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔐 Application Security                                            │
+│     SAST · DAST · Manual Testing · OWASP Top 10 · API Security      │
+│     Threat Modeling: STRIDE · MAESTRO · MITRE ATT&CK · MITRE ATLAS  │
+│                                                                     │
+│  ☁️  Cloud Security                                                  │
+│     GCP · Cloud Armor · IAM · Zero Trust KMS + HSM · Checkpoint NGFW│
+│     Container Hardening (CIS Benchmarks) · CI/CD Security · EDR     │
+│                                                                     │
+│  🤖 AI Security                                                     │
+│     LLM Security · AI Agent Security · Prompt Injection Detection   │
+│     AI-Assisted Vulnerability Analysis & Workflow Automation        │
+│                                                                     │
+│  ⛓️  Blockchain Security                                             │
+│     Smart Contract Auditing · Hyperledger Fabric · Solidity         │
+│     Foundry · Slither · Echidna · OpenZeppelin                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Impact by the Numbers
+
+<div align="center">
+
+| Metric | Result |
+|--------|--------|
+| 🛡️ Container image vulnerabilities reduced | **90%** |
+| ☁️ Cloud security posture improved | **30%** |
+| ⚡ Assessment turnaround time improved | **50%** |
+| 🎯 EDR detection rate (simulated attacks) | **98%** |
+| 🏆 TryHackMe global ranking | **Top 5%** |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+#### Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-6E29C1?style=flat-square&logoColor=white)
+
+#### Cloud & Infrastructure
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+#### Languages & Dev
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVRAJ005&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YUVRAJ005&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YUVRAJ005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Google Cloud Professional Cloud Security Engineer** — 2025
+- 🏅 **Penetration Testing, Threat Hunting & Cryptography** — IBM, 2025
+
+---
+
+<div align="center">
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YUVRAJ005&color=4285F4&style=flat-square&label=Profile+Views)
+
+</div>
