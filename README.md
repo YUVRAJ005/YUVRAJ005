@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-█████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗    ██╗ ██████╗██╗  ██╗███████╗
-██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝    ██║██╔════╝██║  ██║██╔════╝
+  █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗    ██╗ ██████╗██╗  ██╗███████╗
+ ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝    ██║██╔════╝██║  ██║██╔════╝
 ███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝     ██║██║     ███████║█████╗
-██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗     ██║██║     ██╔══██║██╔══╝
-██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗    ██║╚██████╗██║  ██║███████╗
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
+ ██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗     ██║██║     ██╔══██║██╔══╝
+ ██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗    ██║╚██████╗██║  ██║███████╗
+ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
 
 # Hey, I'm Abhishek Iche 👾
@@ -106,19 +106,6 @@ My work spans threat modeling, vulnerability assessment, GCP security, Zero Trus
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVRAJ005&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
