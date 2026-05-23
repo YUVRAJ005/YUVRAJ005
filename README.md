@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhishek+Iche+%F0%9F%91%BE;AppSec+%7C+Cloud+Security;AI+Decurity;Blockchain+Security;Top+5%25+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhishek+Iche+%F0%9F%91%BE;Application+Security;Cloud+Security;AI+Security;Blockchain+Security;Top+5%25+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
 
 # Hey, I'm Abhishek Iche 👾
 
